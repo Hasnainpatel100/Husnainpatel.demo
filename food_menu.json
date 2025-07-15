@@ -1,0 +1,184 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Butter Chicken",
+      "description": "Creamy tomato-based chicken curry.",
+      "price": 250,
+      "category": "Main Course",
+      "isVeg": false,
+      "imageUrl": "https://example.com/images/butter-chicken.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Paneer Tikka",
+      "description": "Grilled cottage cheese cubes with spices.",
+      "price": 200,
+      "category": "Starters",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/paneer-tikka.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Veg Biryani",
+      "description": "Fragrant rice cooked with vegetables and spices.",
+      "price": 180,
+      "category": "Main Course",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/veg-biryani.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Biryani",
+      "description": "Aromatic rice with marinated chicken.",
+      "price": 220,
+      "category": "Main Course",
+      "isVeg": false,
+      "imageUrl": "https://example.com/images/chicken-biryani.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gulab Jamun",
+      "description": "Deep-fried milk balls soaked in sugar syrup.",
+      "price": 80,
+      "category": "Dessert",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/gulab-jamun.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Masala Dosa",
+      "description": "Crispy rice crepe with spiced potato filling.",
+      "price": 120,
+      "category": "South Indian",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/masala-dosa.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Mutton Rogan Josh",
+      "description": "Rich and aromatic Kashmiri mutton curry.",
+      "price": 300,
+      "category": "Main Course",
+      "isVeg": false,
+      "imageUrl": "https://example.com/images/mutton-rogan-josh.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Hakka Noodles",
+      "description": "Stir-fried noodles with vegetables.",
+      "price": 150,
+      "category": "Chinese",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/hakka-noodles.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Chicken Manchurian",
+      "description": "Fried chicken balls in spicy sauce.",
+      "price": 200,
+      "category": "Chinese",
+      "isVeg": false,
+      "imageUrl": "https://example.com/images/chicken-manchurian.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Lassi",
+      "description": "Sweet chilled yogurt drink.",
+      "price": 60,
+      "category": "Beverages",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/lassi.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Tandoori Chicken",
+      "description": "Chicken marinated in yogurt and spices, roasted in tandoor.",
+      "price": 270,
+      "category": "Starters",
+      "isVeg": false,
+      "imageUrl": "https://example.com/images/tandoori-chicken.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Chole Bhature",
+      "description": "Spicy chickpeas served with fried bread.",
+      "price": 130,
+      "category": "North Indian",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/chole-bhature.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Fish Curry",
+      "description": "Fish cooked in spicy coconut-based gravy.",
+      "price": 240,
+      "category": "Main Course",
+      "isVeg": false,
+      "imageUrl": "https://example.com/images/fish-curry.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Mysore Pak",
+      "description": "Traditional South Indian sweet made from ghee and gram flour.",
+      "price": 90,
+      "category": "Dessert",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/mysore-pak.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Cold Coffee",
+      "description": "Iced coffee with milk and sugar.",
+      "price": 70,
+      "category": "Beverages",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/cold-coffee.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Spring Rolls",
+      "description": "Crispy rolls filled with vegetables.",
+      "price": 100,
+      "category": "Chinese",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/spring-rolls.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Dal Makhani",
+      "description": "Slow-cooked black lentils with butter and cream.",
+      "price": 160,
+      "category": "Main Course",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/dal-makhani.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Rajma Chawal",
+      "description": "Red kidney beans curry served with rice.",
+      "price": 150,
+      "category": "North Indian",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/rajma-chawal.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Veg Momos",
+      "description": "Steamed dumplings filled with vegetables.",
+      "price": 110,
+      "category": "Tibetan",
+      "isVeg": true,
+      "imageUrl": "https://example.com/images/veg-momos.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Chicken 65",
+      "description": "Spicy, deep-fried chicken dish from South India.",
+      "price": 190,
+      "category": "Starters",
+      "isVeg": false,
+      "imageUrl": "https://example.com/images/chicken-65.jpg"
+    }
+  ]
+}
