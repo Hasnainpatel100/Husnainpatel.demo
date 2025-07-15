@@ -1,0 +1,204 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Vahid patel",
+      "age": 45,
+      "gender": "Male",
+      "department": "Cardiology",
+      "doctor": "Dr. Sharma",
+      "admitted": true,
+      "room": 101
+    },
+    {
+      "id": 2,
+      "name": "Zuhera Shaikh",
+      "age": 30,
+      "gender": "Female",
+      "department": "Gynecology",
+      "doctor": "Dr. Mehta",
+      "admitted": false,
+      "room": null
+    },
+    {
+      "id": 3,
+      "name": "Sufiyan Shaikh",
+      "age": 60,
+      "gender": "Male",
+      "department": "Orthopedics",
+      "doctor": "Dr. Khan",
+      "admitted": true,
+      "room": 202
+    },
+    {
+      "id": 4,
+      "name": "Anjali Verma",
+      "age": 25,
+      "gender": "Female",
+      "department": "Dermatology",
+      "doctor": "Dr. Iyer",
+      "admitted": false,
+      "room": null
+    },
+    {
+      "id": 5,
+      "name": "Mohammed Ali",
+      "age": 55,
+      "gender": "Male",
+      "department": "Neurology",
+      "doctor": "Dr. Rao",
+      "admitted": true,
+      "room": 303
+    },
+    {
+      "id": 6,
+      "name": "Sneha Nair",
+      "age": 40,
+      "gender": "Female",
+      "department": "ENT",
+      "doctor": "Dr. Banerjee",
+      "admitted": false,
+      "room": null
+    },
+    {
+      "id": 7,
+      "name": "Saquib Shaikh",
+      "age": 50,
+      "gender": "Male",
+      "department": "Cardiology",
+      "doctor": "Dr. Sharma",
+      "admitted": true,
+      "room": 102
+    },
+    {
+      "id": 8,
+      "name": "Lata Joshi",
+      "age": 32,
+      "gender": "Female",
+      "department": "Pediatrics",
+      "doctor": "Dr. Reddy",
+      "admitted": true,
+      "room": 401
+    },
+    {
+      "id": 9,
+      "name": "Muzammil Shaikh",
+      "age": 28,
+      "gender": "Male",
+      "department": "Orthopedics",
+      "doctor": "Dr. Khan",
+      "admitted": false,
+      "room": null
+    },
+    {
+      "id": 10,
+      "name": "Fatima Shaikh",
+      "age": 65,
+      "gender": "Female",
+      "department": "Geriatrics",
+      "doctor": "Dr. Abraham",
+      "admitted": true,
+      "room": 505
+    },
+    {
+      "id": 11,
+      "name": "Faisal Sayyad",
+      "age": 48,
+      "gender": "Male",
+      "department": "General Medicine",
+      "doctor": "Dr. Gupta",
+      "admitted": false,
+      "room": null
+    },
+    {
+      "id": 12,
+      "name": "Meera Choudhary",
+      "age": 36,
+      "gender": "Female",
+      "department": "Psychiatry",
+      "doctor": "Dr. Sen",
+      "admitted": true,
+      "room": 302
+    },
+    {
+      "id": 13,
+      "name": "Arshad Shaikh",
+      "age": 70,
+      "gender": "Male",
+      "department": "Geriatrics",
+      "doctor": "Dr. Abraham",
+      "admitted": true,
+      "room": 506
+    },
+    {
+      "id": 14,
+      "name": "Karina Kapoor",
+      "age": 22,
+      "gender": "Female",
+      "department": "Dermatology",
+      "doctor": "Dr. Iyer",
+      "admitted": false,
+      "room": null
+    },
+    {
+      "id": 15,
+      "name": "Arjun Reddy",
+      "age": 58,
+      "gender": "Male",
+      "department": "Neurology",
+      "doctor": "Dr. Rao",
+      "admitted": true,
+      "room": 304
+    },
+    {
+      "id": 16,
+      "name": "Pooja Readdy",
+      "age": 27,
+      "gender": "Female",
+      "department": "ENT",
+      "doctor": "Dr. Banerjee",
+      "admitted": false,
+      "room": null
+    },
+    {
+      "id": 17,
+      "name": "Vikram Sinha",
+      "age": 43,
+      "gender": "Male",
+      "department": "General Surgery",
+      "doctor": "Dr. Nanda",
+      "admitted": true,
+      "room": 210
+    },
+    {
+      "id": 18,
+      "name": "Sunita Willian",
+      "age": 52,
+      "gender": "Female",
+      "department": "Gynecology",
+      "doctor": "Dr. Mehta",
+      "admitted": true,
+      "room": 207
+    },
+    {
+      "id": 19,
+      "name": "Modi narendra",
+      "age": 38,
+      "gender": "Male",
+      "department": "Urology",
+      "doctor": "Dr. Shetty",
+      "admitted": true,
+      "room": 408
+    },
+    {
+      "id": 20,
+      "name": "Alka Jain",
+      "age": 46,
+      "gender": "Female",
+      "department": "Oncology",
+      "doctor": "Dr. Mukherjee",
+      "admitted": false,
+      "room": null
+    }
+  ]
+}
