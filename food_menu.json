@@ -1,184 +1,460 @@
 {
   "menu": [
-    {
-      "id": 1,
-      "name": "Butter Chicken",
-      "description": "Creamy tomato-based chicken curry.",
-      "price": 250,
-      "category": "Main Course",
-      "isVeg": false,
-      "imageUrl": "https://example.com/images/butter-chicken.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Paneer Tikka",
-      "description": "Grilled cottage cheese cubes with spices.",
-      "price": 200,
-      "category": "Starters",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/paneer-tikka.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Veg Biryani",
-      "description": "Fragrant rice cooked with vegetables and spices.",
-      "price": 180,
-      "category": "Main Course",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/veg-biryani.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Chicken Biryani",
-      "description": "Aromatic rice with marinated chicken.",
-      "price": 220,
-      "category": "Main Course",
-      "isVeg": false,
-      "imageUrl": "https://example.com/images/chicken-biryani.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Gulab Jamun",
-      "description": "Deep-fried milk balls soaked in sugar syrup.",
-      "price": 80,
-      "category": "Dessert",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/gulab-jamun.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Masala Dosa",
-      "description": "Crispy rice crepe with spiced potato filling.",
-      "price": 120,
-      "category": "South Indian",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/masala-dosa.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Mutton Rogan Josh",
-      "description": "Rich and aromatic Kashmiri mutton curry.",
-      "price": 300,
-      "category": "Main Course",
-      "isVeg": false,
-      "imageUrl": "https://example.com/images/mutton-rogan-josh.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Hakka Noodles",
-      "description": "Stir-fried noodles with vegetables.",
-      "price": 150,
-      "category": "Chinese",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/hakka-noodles.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Chicken Manchurian",
-      "description": "Fried chicken balls in spicy sauce.",
-      "price": 200,
-      "category": "Chinese",
-      "isVeg": false,
-      "imageUrl": "https://example.com/images/chicken-manchurian.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Lassi",
-      "description": "Sweet chilled yogurt drink.",
-      "price": 60,
-      "category": "Beverages",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/lassi.jpg"
-    },
-    {
-      "id": 11,
-      "name": "Tandoori Chicken",
-      "description": "Chicken marinated in yogurt and spices, roasted in tandoor.",
-      "price": 270,
-      "category": "Starters",
-      "isVeg": false,
-      "imageUrl": "https://example.com/images/tandoori-chicken.jpg"
-    },
-    {
-      "id": 12,
-      "name": "Chole Bhature",
-      "description": "Spicy chickpeas served with fried bread.",
-      "price": 130,
-      "category": "North Indian",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/chole-bhature.jpg"
-    },
-    {
-      "id": 13,
-      "name": "Fish Curry",
-      "description": "Fish cooked in spicy coconut-based gravy.",
-      "price": 240,
-      "category": "Main Course",
-      "isVeg": false,
-      "imageUrl": "https://example.com/images/fish-curry.jpg"
-    },
-    {
-      "id": 14,
-      "name": "Mysore Pak",
-      "description": "Traditional South Indian sweet made from ghee and gram flour.",
-      "price": 90,
-      "category": "Dessert",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/mysore-pak.jpg"
-    },
-    {
-      "id": 15,
-      "name": "Cold Coffee",
-      "description": "Iced coffee with milk and sugar.",
-      "price": 70,
-      "category": "Beverages",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/cold-coffee.jpg"
-    },
-    {
-      "id": 16,
-      "name": "Spring Rolls",
-      "description": "Crispy rolls filled with vegetables.",
-      "price": 100,
-      "category": "Chinese",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/spring-rolls.jpg"
-    },
-    {
-      "id": 17,
-      "name": "Dal Makhani",
-      "description": "Slow-cooked black lentils with butter and cream.",
-      "price": 160,
-      "category": "Main Course",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/dal-makhani.jpg"
-    },
-    {
-      "id": 18,
-      "name": "Rajma Chawal",
-      "description": "Red kidney beans curry served with rice.",
-      "price": 150,
-      "category": "North Indian",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/rajma-chawal.jpg"
-    },
-    {
-      "id": 19,
-      "name": "Veg Momos",
-      "description": "Steamed dumplings filled with vegetables.",
-      "price": 110,
-      "category": "Tibetan",
-      "isVeg": true,
-      "imageUrl": "https://example.com/images/veg-momos.jpg"
-    },
-    {
-      "id": 20,
-      "name": "Chicken 65",
-      "description": "Spicy, deep-fried chicken dish from South India.",
-      "price": 190,
-      "category": "Starters",
-      "isVeg": false,
-      "imageUrl": "https://example.com/images/chicken-65.jpg"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Chicken 65",
+    "description": "Spicy, deep-fried chicken dish from South India.",
+    "price": 190,
+    "category": "Starters",
+    "availability": false,
+    "imageUrl": "https://example.com/images/chicken-65.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Paneer Tikka",
+    "description": "Grilled paneer chunks with smoky spices.",
+    "price": 180,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/paneer-tikka.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Veg Manchurian",
+    "description": "Vegetable dumplings in spicy Indo-Chinese gravy.",
+    "price": 160,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/veg-manchurian.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hara Bhara Kabab",
+    "description": "Spinach and peas patties grilled to perfection.",
+    "price": 140,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/hara-bhara-kabab.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fish Tandoori",
+    "description": "Spiced fish fillets cooked in tandoor.",
+    "price": 210,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/fish-tandoori.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Masala Fries",
+    "description": "Crispy fries tossed with Indian masalas.",
+    "price": 110,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/masala-fries.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Butter Chicken",
+    "description": "Creamy tomato-based gravy with tender chicken.",
+    "price": 250,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/butter-chicken.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dal Tadka",
+    "description": "Lentils tempered with ghee, garlic, and spices.",
+    "price": 160,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/dal-tadka.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Paneer Butter Masala",
+    "description": "Cottage cheese cubes in rich butter gravy.",
+    "price": 220,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/paneer-butter-masala.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Egg Curry",
+    "description": "Boiled eggs in spicy onion-tomato gravy.",
+    "price": 180,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/egg-curry.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Chicken Biryani",
+    "description": "Fragrant rice layered with spiced chicken.",
+    "price": 280,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chicken-biryani.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Veg Biryani",
+    "description": "Assorted vegetables layered with aromatic rice.",
+    "price": 190,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/veg-biryani.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Jeera Rice",
+    "description": "Cumin-flavored basmati rice.",
+    "price": 130,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/jeera-rice.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Veg Fried Rice",
+    "description": "Stir-fried rice with vegetables and sauces.",
+    "price": 150,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/veg-fried-rice.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Chicken Hakka Noodles",
+    "description": "Stir-fried noodles tossed with spiced chicken.",
+    "price": 180,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chicken-hakka-noodles.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Mix Veg Curry",
+    "description": "Seasonal vegetables in onion-tomato masala.",
+    "price": 160,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/mix-veg-curry.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Tandoori Roti",
+    "description": "Whole wheat bread roasted in tandoor.",
+    "price": 25,
+    "category": "Breads",
+    "availability": true,
+    "imageUrl": "https://example.com/images/tandoori-roti.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Butter Naan",
+    "description": "Soft leavened bread brushed with butter.",
+    "price": 35,
+    "category": "Breads",
+    "availability": true,
+    "imageUrl": "https://example.com/images/butter-naan.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Garlic Naan",
+    "description": "Flatbread with fresh garlic topping.",
+    "price": 40,
+    "category": "Breads",
+    "availability": true,
+    "imageUrl": "https://example.com/images/garlic-naan.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Laccha Paratha",
+    "description": "Multi-layered flaky wheat bread.",
+    "price": 30,
+    "category": "Breads",
+    "availability": true,
+    "imageUrl": "https://example.com/images/laccha-paratha.jpg"
+  },
+
+  {
+    "id": 21,
+    "name": "Gulab Jamun",
+    "description": "Soft syrup-soaked milk dumplings.",
+    "price": 60,
+    "category": "Desserts",
+    "availability": true,
+    "imageUrl": "https://example.com/images/gulab-jamun.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Rasgulla",
+    "description": "Spongy white cheese balls in syrup.",
+    "price": 60,
+    "category": "Desserts",
+    "availability": false,
+    "imageUrl": "https://example.com/images/rasgulla.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Ice Cream Scoop",
+    "description": "Single scoop of vanilla or chocolate.",
+    "price": 50,
+    "category": "Desserts",
+    "availability": true,
+    "imageUrl": "https://example.com/images/ice-cream.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Brownie",
+    "description": "Warm chocolate brownie, optionally with ice cream.",
+    "price": 80,
+    "category": "Desserts",
+    "availability": true,
+    "imageUrl": "https://example.com/images/brownie.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Fruit Custard",
+    "description": "Chilled custard with chopped fresh fruits.",
+    "price": 70,
+    "category": "Desserts",
+    "availability": true,
+    "imageUrl": "https://example.com/images/fruit-custard.jpg"
+  },
+
+  {
+    "id": 26,
+    "name": "Masala Chai",
+    "description": "Spiced milk tea infused with ginger & cardamom.",
+    "price": 30,
+    "category": "Beverages",
+    "availability": true,
+    "imageUrl": "https://example.com/images/masala-chai.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Chilli Chicken",
+    "description": "Battered chicken tossed with spicy sauce.",
+    "price": 220,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chilli-chicken.jpg"
+  },
+
+  {
+    "id": 28,
+    "name": "Lassi",
+    "description": "Chilled yogurt-based drink, sweet or salty.",
+    "price": 50,
+    "category": "Beverages",
+    "availability": true,
+    "imageUrl": "https://example.com/images/lassi.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Lemon Soda",
+    "description": "Sparkling soda with lemon juice and salt.",
+    "price": 40,
+    "category": "Beverages",
+    "availability": true,
+    "imageUrl": "https://example.com/images/lemon-soda.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Green Salad",
+    "description": "Fresh lettuce, cucumber, tomato, and onion.",
+    "price": 80,
+    "category": "Sides",
+    "availability": true,
+    "imageUrl": "https://example.com/images/green-salad.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Onion Rings",
+    "description": "Crispy deep-fried onion slices.",
+    "price": 100,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/onion-rings.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Egg Fried Rice",
+    "description": "Stir-fried rice with scrambled egg.",
+    "price": 160,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/egg-fried-rice.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Chilli Paneer",
+    "description": "Paneer tossed in spicy Indo-Chinese sauce.",
+    "price": 190,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chilli-paneer.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Sweet Corn Soup",
+    "description": "Creamy soup with sweet corn and vegetables.",
+    "price": 130,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/sweet-corn-soup.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Hot and Sour Soup",
+    "description": "Tangy and spicy Chinese-style soup.",
+    "price": 130,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/hot-sour-soup.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Chocolate Shake",
+    "description": "Thick shake blended with chocolate ice cream.",
+    "price": 90,
+    "category": "Beverages",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chocolate-shake.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Mango Shake",
+    "description": "Seasonal mango pulp blended with milk.",
+    "price": 80,
+    "category": "Beverages",
+    "availability": true,
+    "imageUrl": "https://example.com/images/mango-shake.jpg"
+  },
+
+  {
+    "id": 38,
+    "name": "French Fries",
+    "description": "Classic deep-fried potato sticks.",
+    "price": 100,
+    "category": "Sides",
+    "availability": true,
+    "imageUrl": "https://example.com/images/french-fries.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Aloo Paratha",
+    "description": "Stuffed wheat flatbread with spicy potatoes.",
+    "price": 50,
+    "category": "Breads",
+    "availability": true,
+    "imageUrl": "https://example.com/images/aloo-paratha.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Veg Sandwich",
+    "description": "Grilled sandwich filled with veggies and sauces.",
+    "price": 90,
+    "category": "Snacks",
+    "availability": true,
+    "imageUrl": "https://example.com/images/veg-sandwich.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Chicken Sandwich",
+    "description": "Grilled sandwich with spiced chicken filling.",
+    "price": 120,
+    "category": "Snacks",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chicken-sandwich.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Pav Bhaji",
+    "description": "Spicy mashed vegetables with buttered buns.",
+    "price": 100,
+    "category": "Snacks",
+    "availability": true,
+    "imageUrl": "https://example.com/images/pav-bhaji.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Chole Bhature",
+    "description": "Spicy chickpeas with fluffy fried bread.",
+    "price": 130,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chole-bhature.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Veg Hakka Noodles",
+    "description": "Stir-fried noodles with veggies.",
+    "price": 150,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/veg-hakka-noodles.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Chilli Chicken",
+    "description": "Battered chicken tossed with spicy sauce.",
+    "price": 220,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chilli-chicken.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Palak Paneer",
+    "description": "Creamed spinach with paneer cubes.",
+    "price": 190,
+    "category": "Main Course",
+    "availability": true,
+    "imageUrl": "https://example.com/images/palak-paneer.jpg"
+  },
+
+  {
+    "id": 47,
+    "name": "Samosa",
+    "description": "Crispy pastry filled with spiced potatoes.",
+    "price": 25,
+    "category": "Snacks",
+    "availability": true,
+    "imageUrl": "https://example.com/images/samosa.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Chai Biscuit Combo",
+    "description": "Masala chai served with classic biscuits.",
+    "price": 40,
+    "category": "Snacks",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chai-biscuit-combo.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Veg Momos",
+    "description": "Steamed dumplings filled with veggies.",
+    "price": 120,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/veg-momos.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Chicken Momos",
+    "description": "Steamed dumplings filled with minced chicken.",
+    "price": 140,
+    "category": "Starters",
+    "availability": true,
+    "imageUrl": "https://example.com/images/chicken-momos.jpg"
+  }
+]
 }
